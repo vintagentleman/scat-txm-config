@@ -17,13 +17,13 @@
 			<p><a href="https://github.com/vintagentleman/scat-content" target="_blank">The Saint Petersburg Corpus of Hagiographic Texts (SCAT)</a> is an electronic corpus of Old Russian hagiographic literature developed at Saint Petersburg State University.</p>
 			<p>The Russian hagiographic texts of the 15–17 centuries exhibit an exceptional richness of the language. It is during this period that their abundant phraseology solidified into standard idioms, which wordsmiths would artfully adapt to the genre canon. In many different ways, the language of hagiography influenced the development of literary Russian at that time. The corpus aims to represent that language as faithfully as possible.</p>
 			<p>
-				Cy clicking on the following liks you may easily:
+				By clicking on the following links you may easily:
 				<br />
 				<ul>
 					<li>
 						display the 
 						<a class="command" command="metadata" path="/SCAT2021">list of texts</a>
-						(click on the "book" icon to read the texct online) ;
+						(click on the "book" icon to read the text online) ;
 						<p>
 							<br/>
 							<b>Lexicon</b>
